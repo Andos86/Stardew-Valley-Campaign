@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Warrior1" size="1.000000 0.573691" />
+    <ImageTarget name="stardewmuseum" size="1.000000 0.890000" />
+    <ImageTarget name="GeocacheAR" size="1.000000 1.243333" />
+    <ImageTarget name="Profilepic" size="0.500000 0.502618" />
+  </Tracking>
+</QCARConfig>
